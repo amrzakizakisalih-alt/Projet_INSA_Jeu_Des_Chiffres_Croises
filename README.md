@@ -79,6 +79,11 @@ Compile all packages and the main class:
     
    **Amr Zaki Salih**
    
-  Academic Advisor: **Mr. A. Osmani** (INSA Rouen Normandie)[cite: 25]
+  Academic Advisor: **Mr. A. Osmani** (INSA Rouen Normandie)
 
 ---
+
+## Institution
+
+**INSA Rouen Normandie**
+Department of Mathematical Engineering
