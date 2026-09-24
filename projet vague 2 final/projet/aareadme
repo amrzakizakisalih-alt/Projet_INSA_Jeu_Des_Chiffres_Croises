@@ -1,0 +1,12 @@
+Pour lancer le programme : 
+javac main.java materiel/*.java utilisateur/*.java src/*.java
+
+java main
+
+Pour lancer la javadoc : 
+
+javadoc -d docs -sourcepath . -subpackages materiel utilisateur src
+
+xdg-open docs/index.html ou firefox docs/index.hmtl
+
+

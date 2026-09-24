@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"materiel","l":"Carte"},{"p":"utilisateur","l":"Chevalet"},{"p":"materiel","l":"Jeton"},{"p":"utilisateur","l":"Joueur"},{"p":"materiel","l":"Paquet_cartes"},{"p":"materiel","l":"Plateau"},{"p":"materiel","l":"Sacjetons"},{"p":"src","l":"Systeme"}];updateSearchResults();
